@@ -10,8 +10,8 @@
     "description": "Bourse complète du gouvernement britannique pour les étudiants internationaux poursuivant des études de master dans n'importe quel sujet au Royaume-Uni.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
-    "link_ok": null,
+    "last_checked": "2026-10-26",
+    "link_ok": true,
     "source": "manual"
   },
   {
@@ -25,7 +25,7 @@
     "description": "Programme de bourses de l'Union européenne pour les étudiants internationaux poursuivant des programmes de master conjoints dans plusieurs universités européennes.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
+    "last_checked": "2026-10-26",
     "link_ok": null,
     "source": "manual"
   },
@@ -40,8 +40,8 @@
     "description": "Bourse du gouvernement allemand pour les étudiants internationaux poursuivant des études de master et de doctorat dans toutes les disciplines en Allemagne.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
-    "link_ok": null,
+    "last_checked": "2026-10-26",
+    "link_ok": true,
     "source": "manual"
   },
   {
@@ -55,8 +55,8 @@
     "description": "Programme d'échange éducatif du gouvernement américain offrant des bourses aux étudiants internationaux pour des études de master et de recherche aux États-Unis.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
-    "link_ok": null,
+    "last_checked": "2026-10-26",
+    "link_ok": true,
     "source": "manual"
   },
   {
@@ -70,7 +70,7 @@
     "description": "Bourses du gouvernement australien pour les étudiants des pays en développement poursuivant des études de master et de doctorat en Australie.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
+    "last_checked": "2026-10-26",
     "link_ok": null,
     "source": "manual"
   },
@@ -85,8 +85,8 @@
     "description": "Bourses du gouvernement britannique pour les étudiants des pays du Commonwealth poursuivant des études de master et de doctorat au Royaume-Uni.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
-    "link_ok": null,
+    "last_checked": "2026-10-26",
+    "link_ok": true,
     "source": "manual"
   },
   {
@@ -100,8 +100,8 @@
     "description": "Bourse du gouvernement japonais pour les étudiants internationaux poursuivant des études de master et de doctorat dans toutes les disciplines au Japon.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
-    "link_ok": null,
+    "last_checked": "2026-10-26",
+    "link_ok": true,
     "source": "manual"
   },
   {
@@ -115,8 +115,8 @@
     "description": "Bourses du gouvernement suisse pour les étudiants internationaux poursuivant des études de doctorat et de recherche postdoctorale en Suisse.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
-    "link_ok": null,
+    "last_checked": "2026-10-26",
+    "link_ok": false,
     "source": "manual"
   },
   {
@@ -130,7 +130,7 @@
     "description": "Bourses canadiennes pour les étudiants internationaux poursuivant des études de doctorat dans les universités canadiennes.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
+    "last_checked": "2026-10-26",
     "link_ok": null,
     "source": "manual"
   },
@@ -145,8 +145,8 @@
     "description": "Bourses de la Fondation Rotary pour les étudiants internationaux poursuivant des études de master dans les domaines de la paix et de la résolution des conflits.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
-    "link_ok": null,
+    "last_checked": "2026-10-26",
+    "link_ok": false,
     "source": "manual"
   },
   {
@@ -160,8 +160,8 @@
     "description": "Bourses du gouvernement hongrois pour les étudiants internationaux poursuivant des études de bachelor, master et doctorat en Hongrie.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
-    "link_ok": null,
+    "last_checked": "2026-10-26",
+    "link_ok": true,
     "source": "manual"
   },
   {
@@ -175,8 +175,8 @@
     "description": "Bourses du gouvernement turc pour les étudiants internationaux poursuivant des études de bachelor, master et doctorat en Turquie.",
     "deadline_date": null,
     "deadline_note": "À confirmer sur le site officiel",
-    "last_checked": null,
-    "link_ok": null,
+    "last_checked": "2026-10-26",
+    "link_ok": true,
     "source": "manual"
   }
 ]
