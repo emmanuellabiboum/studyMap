@@ -1,8 +1,8 @@
-# Rapport du scraper — 2026-10-26
+# Rapport du scraper — 2026-11-02
 
 - INFO Chevening Scholarship: lien OK, aucune date limite trouvée
 - AVERTISSEMENT Erasmus Mundus: non vérifiée — interdit par robots.txt (ou robots.txt inaccessible)
-- INFO DAAD Scholarship: lien OK, aucune date limite trouvée
+- AVERTISSEMENT DAAD Scholarship: non vérifiée — interdit par robots.txt (ou robots.txt inaccessible)
 - INFO Fulbright Scholarship: lien OK, aucune date limite trouvée
 - AVERTISSEMENT Australia Awards: non vérifiée — interdit par robots.txt (ou robots.txt inaccessible)
 - INFO Commonwealth Scholarship: lien OK, aucune date limite trouvée
