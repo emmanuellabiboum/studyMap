@@ -1,4 +1,4 @@
-# Rapport du scraper — 2026-11-09
+# Rapport du scraper — 2026-11-16
 
 - INFO Chevening Scholarship: lien OK, aucune date limite trouvée
 - AVERTISSEMENT Erasmus Mundus: non vérifiée — interdit par robots.txt (ou robots.txt inaccessible)
@@ -10,5 +10,5 @@
 - ERREUR Swiss Government Excellence: HTTP 404 sur https://www.sbfi.admin.ch/sbfi/fr/home/formation/bourses/bourses-excellence-suisse.html
 - AVERTISSEMENT Vanier Canada Graduate: non vérifiée — interdit par robots.txt (ou robots.txt inaccessible)
 - ERREUR Rotary Foundation: HTTP 429 sur https://www.rotary.org/en/our-programs/rotary-foundation
-- AVERTISSEMENT Hungarian Government: non vérifiée — interdit par robots.txt (ou robots.txt inaccessible)
+- INFO Hungarian Government: lien OK, aucune date limite trouvée
 - INFO Turkey Scholarships: lien OK, aucune date limite trouvée
