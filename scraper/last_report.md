@@ -1,4 +1,4 @@
-# Rapport du scraper — 2026-11-16
+# Rapport du scraper — 2026-11-23
 
 - INFO Chevening Scholarship: lien OK, aucune date limite trouvée
 - AVERTISSEMENT Erasmus Mundus: non vérifiée — interdit par robots.txt (ou robots.txt inaccessible)
